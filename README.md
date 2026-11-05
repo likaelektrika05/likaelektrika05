@@ -1,7 +1,5 @@
 # Hi, I'm Lia (Lika) Surguladze 🐪
 
-Yes I made an account in my senior year, what about it.
-
 I'm a Computer Engineering student at SDSU. I'm into robotics, control systems & embedded systems.
 
 ### Research

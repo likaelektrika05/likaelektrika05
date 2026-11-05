@@ -31,7 +31,7 @@ Here's some stuff I've built:
 
 ### Other projects
 - [Korra](https://github.com/likaelektrika05/korra-ai), an AI agent I built step by step: tools, memory, human approval, prompt testing
-- Wordle game, not that impressive I just LOVE wordle.
+- Wordle game, not that impressive, I just LOVE wordle.
 - GradVision, full-stack web app, Team project
 - Maze Runner Trivia, BigInteger, Bank Account in C#
 - Coin toss and system reliability simulations in MATLAB

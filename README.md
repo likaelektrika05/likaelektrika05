@@ -2,12 +2,12 @@
 
 Yes I made an account in my senior year, what about it.
 
-I'm a Computer Engineering student at San Diego State University. I'm into robotics, control systems, and embedded systems. I mostly work with C, C++, Python, Verilog, Cadence Virtuoso, Docker, MATLAB, and LangGraph.
+I'm a Computer Engineering student at SDSU. I'm into robotics, control systems & embedded systems.
 
 ### Research
 - Working with the Unitree Go1 quadruped robot at SDSU's Dynamic Systems and Control Lab
 - NSF HAMMER REU at Ohio State: automated the American Pinbed, a sheet-metal forming machine, and built a Python tool that turns 3D CAD models into pin-height data
-- Senior design: a buried sensor that measures nitric oxide near tomato roots
+- Senior design: "NO-sense" a buried sensor that measures nitric oxide near tomato roots
 
 Here's some stuff I've built:
 
@@ -31,7 +31,7 @@ Here's some stuff I've built:
 
 ### Other projects
 - [Korra](https://github.com/likaelektrika05/korra-ai), an AI agent I built step by step: tools, memory, human approval, prompt testing
-- Wordle clone, team project
-- GradVision, full-stack web app
+- Wordle game, not that impressive I just LOVE wordle.
+- GradVision, full-stack web app, Team project
 - Maze Runner Trivia, BigInteger, Bank Account in C#
 - Coin toss and system reliability simulations in MATLAB

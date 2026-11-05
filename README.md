@@ -6,33 +6,32 @@ I'm a Computer Engineering student at San Diego State University. I'm into robot
 
 ### Research
 - Working with the Unitree Go1 quadruped robot at SDSU's Dynamic Systems and Control Lab
-- Senior design: NO-Sense, a buried sensor that measures nitric oxide near tomato roots (Team 28)
+- NSF HAMMER REU at Ohio State: automated the American Pinbed, a sheet-metal forming machine, and built a Python tool that turns 3D CAD models into pin-height data
+- Senior design: a buried sensor that measures nitric oxide near tomato roots
 
 Here's some stuff I've built:
 
-### VLSI Circuit Design (COMPE 572, Fall 2026)
+### VLSI Circuit Design
 - Project 1: CMOS inverter, schematic to layout with post-layout checks (Cadence Virtuoso, 45nm)
-- Project 2 (coming soon)
-- Project 3 (coming soon)
-- Project 4 (coming soon)
-- Neural network chip for traffic sign color detection, group project (in progress)
+- Project 2: fir4 low-pass filter, taken from a MATLAB model to SystemVerilog to a full 45nm chip layout running at 300 MHz
+- Project 3: neural network chip for traffic sign color detection, team project. I designed the adder and register blocks at the transistor level, simulated them, and did the layout floor-planning.
 
 ### C / C++
-- Embedded Systems Labs: Morse code, USART, keypad, timers, music tones, interrupts, ADC, ARM (COMPE 375, Fall 2025)
-- File statistics tool in C with 28 unit tests (COMPE 475, Fall 2026)
-- Assembly programming project (COMPE 475, Fall 2026)
-- CRC in ARM Assembly + C (COMPE 271, Spring 2025)
-- LFSR pseudorandom number generator in C and assembly (COMPE 271, Spring 2025)
-- Data Structures in C++: classes, stacks, queues, priority queue (COMPE 260, Fall 2024)
+- Embedded Systems Labs: Morse code, USART, keypad, timers, music tones, interrupts, ADC, ARM
+- File statistics tool in C with 28 unit tests
+- Assembly programming project
+- CRC in ARM Assembly + C
+- LFSR pseudorandom number generator in C and assembly
+- Data Structures in C++: classes, stacks, queues, priority queue
 
 ### Verilog and digital logic
-- Fall 2026: reaction-time game on Basys 3 (COMPE 470L)
-- Fall 2026: combinational and sequential circuit simulations, fetch-decode-execute cycle (COMPE 475)
-- Spring 2026: adders, counter, pin-code FSM, serializer (COMPE 470)
+- Reaction-time game on Basys 3
+- Combinational and sequential circuit simulations, fetch-decode-execute cycle
+- Adders, counter, pin-code FSM, serializer
 
 ### Other projects
-- [Korra](https://github.com/likaelektrika05/korra-ai), an AI agent I built step by step: tools, memory, human approval, prompt testing (COMPE 475, Fall 2026)
-- Wordle clone, team project (COMPE 475, Fall 2026)
-- GradVision, full-stack web app (COMPE 561, Fall 2026)
-- Maze Runner Trivia, BigInteger, Bank Account in C# (COMPE 361, Spring 2026)
-- Coin toss and system reliability simulations in MATLAB (EE 300, Fall 2025)
+- [Korra](https://github.com/likaelektrika05/korra-ai), an AI agent I built step by step: tools, memory, human approval, prompt testing
+- Wordle clone, team project
+- GradVision, full-stack web app
+- Maze Runner Trivia, BigInteger, Bank Account in C#
+- Coin toss and system reliability simulations in MATLAB

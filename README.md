@@ -1,1 +1,1 @@
-Hi! I'm Lia Surguladze, but I go by Lika. I'm a Computer Engineering student interested in robotics, control systems, embedded systems, and research. I'm currently working with the Unitree Go1 quadruped robot at SDSU's Dynamic Systems and Control Laboratory. Made my GitHub in senior year, but better late than never!
+Yes I made an account in my senior year what about it

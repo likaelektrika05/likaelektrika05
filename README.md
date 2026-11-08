@@ -11,11 +11,11 @@ Here's some stuff I've built:
 
 ### VLSI Circuit Design
 - Project 1: CMOS inverter, schematic to layout with post-layout checks (Cadence Virtuoso, 45nm)
-- Project 2: fir4 low-pass filter, taken from a MATLAB model to SystemVerilog to a full 45nm chip layout running at 300 MHz
+- Project 2: [fir4 low-pass filter](https://github.com/likaelektrika05/vlsi-fir4-filter), taken from a MATLAB model to SystemVerilog to a full 45nm chip layout running at 300 MHz
 - Project 3: neural network chip for traffic sign color detection, team project.
 
 ### C / C++
-- Embedded Systems Labs: Morse code, USART, keypad, timers, music tones, interrupts, ADC, ARM
+- [Embedded Systems Labs](https://github.com/likaelektrika05/embedded-systems-labs): Morse code, USART, keypad, timers, music tones, interrupts, ADC, ARM
 - File statistics tool in C with 28 unit tests
 - Assembly programming project
 - CRC in ARM Assembly + C

@@ -4,7 +4,7 @@ I'm a Computer Engineering student at SDSU. I'm into robotics, control systems &
 
 ### Research
 - Working with the Unitree Go1 quadruped robot at SDSU's Dynamic Systems and Control Lab
-- NSF HAMMER REU at Ohio State: automated the American Pinbed, a sheet-metal forming machine, and built a Python tool that turns 3D CAD models into pin-height data
+- NSF REU at OSU: automated the American Pinbed, a sheet-metal forming machine, and built a Python tool that turns 3D CAD models into pin-height data
 - Senior design: "NO-sense" a buried sensor that measures nitric oxide near tomato roots
 
 Here's some stuff I've built:
